@@ -40,5 +40,6 @@ Class: HandDetector
 
 
 
-<img width="794" height="595" alt="Screenshot_1" src="https://github.com/user-attachments/assets/60702d21-8c86-4bb8-bafd-fc0fa6e2393c" />
+<img width="794" height="586" alt="Screenshot_2" src="https://github.com/user-attachments/assets/7723d014-3007-4e50-a35a-f55c636611b0" />
+
 
